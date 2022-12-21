@@ -3,7 +3,6 @@ import math
 
 f = int(input('Select a function: \nAddition -- 1\nSubtraction -- 2\nMultiply -- 3\nDivision -- 4\nSquaring -- 5\nSquare Root -- 6\nSine -- 7\nCosine -- 8\n '))
 
-#'Выберите функцию \nСложение -- 1\nВычитание -- 2\nУмножение -- 3\nДеление -- 4\nВозведение в квадрат -- 5\nВычисление квадратного корня -- 6\nВычисление синуса -- 7\nВычисление косинуса -- 8\n'
 
 if f == 1:
     x1 = int(input('Enter the first number: '))
